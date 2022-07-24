@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T06:51:38.435Z" agent="5.0 (Windows)" etag="Z77Rfv_3uFsLrlUzKPXg" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-24T09:14:35.102Z" agent="5.0 (Windows)" etag="VojAe6PoBaodVzLRxVOE" version="20.2.0" type="github">
   <diagram id="npY8XxJWni4S4PRdRHgA" name="Página-1">
     <mxGraphModel dx="981" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="530" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBpJdlxHAonD7lvV-VtL-5" value="Definir pesos das Matérias" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-5" value="Definir pesos das Matérias (peso horas e peso importancia)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nBpJdlxHAonD7lvV-VtL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -72,7 +72,7 @@
           <mxGeometry x="530" y="160" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nBpJdlxHAonD7lvV-VtL-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="250" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nBpJdlxHAonD7lvV-VtL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;" parent="1" source="nBpJdlxHAonD7lvV-VtL-20" target="nBpJdlxHAonD7lvV-VtL-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,8 +80,8 @@
         <mxCell id="tsvWqg7zDQjC2Wg8wB_n-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBpJdlxHAonD7lvV-VtL-20" target="tsvWqg7zDQjC2Wg8wB_n-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBpJdlxHAonD7lvV-VtL-20" value="Se a matéria tiver menos de 80% de aproveitamento, aumentar o valor do peso dela" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-20" value="&lt;div&gt;Se a matéria tiver menos de 80% de aproveitamento, aumentar o valor do peso dela (acrescentar 0,25 pontos)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="320" y="250" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tsvWqg7zDQjC2Wg8wB_n-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="470" width="120" height="60" as="geometry" />
@@ -163,6 +163,12 @@
         </mxCell>
         <mxCell id="tsvWqg7zDQjC2Wg8wB_n-32" value="Comparar taxa de acertos com os das semanas anteriores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="581" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="tsvWqg7zDQjC2Wg8wB_n-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tsvWqg7zDQjC2Wg8wB_n-35" value="&lt;div&gt;Organizar&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="770" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
