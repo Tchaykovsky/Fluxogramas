@@ -1,1 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T00:41:29.617Z" agent="5.0 (Windows)" version="20.2.0" etag="vM02YdukgT1lhkBZu6wv" type="github"><diagram id="npY8XxJWni4S4PRdRHgA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-24T01:28:37.672Z" agent="5.0 (Windows)" etag="NcRKoRp9OZHFghJMatK8" version="20.2.0" type="github">
+  <diagram id="npY8XxJWni4S4PRdRHgA" name="Página-1">
+    <mxGraphModel dx="813" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBpJdlxHAonD7lvV-VtL-2" target="nBpJdlxHAonD7lvV-VtL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-2" value="Quantidade de matérias" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBpJdlxHAonD7lvV-VtL-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-5" value="Pesos das Matérias" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBpJdlxHAonD7lvV-VtL-7" target="nBpJdlxHAonD7lvV-VtL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-7" value="Quantidade de dias para estudos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBpJdlxHAonD7lvV-VtL-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-10" value="Horas por dia de estudo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="nBpJdlxHAonD7lvV-VtL-16" target="nBpJdlxHAonD7lvV-VtL-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-16" value="&lt;h1 style=&quot;&quot;&gt;Dividir horas por nível de matérias&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;Somar todos os pesos e dividir pelas horas, e depois multiplicar os pesos das matérias com o valor resultante.&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="nBpJdlxHAonD7lvV-VtL-20" target="nBpJdlxHAonD7lvV-VtL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nBpJdlxHAonD7lvV-VtL-20" value="Se a matéria tiver menos de 80% de aproveitamento, mudar o valor do peso dela" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
